@@ -1,1 +1,1 @@
-document.onload = document.body.style.backgroundColor = "#2e2e2e";
+document.onload = document.body.style.backgroundColor = "#000";
